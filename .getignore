@@ -1,0 +1,17 @@
+# Enviroments
+############
+.env
+.venv
+env/
+venv/
+
+# Binaries
+############
+*.pdf
+*.png
+*.xlsx
+*.txt
+
+# Folders
+
+
