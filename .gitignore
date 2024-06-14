@@ -15,5 +15,6 @@ venv/
 *.csv
 
 # Folders
+data/
 
 
