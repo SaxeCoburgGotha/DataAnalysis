@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools >= 58.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+requires-python=">=3.8"
+name="data_analysis"
+version='0.1.1'
+authors = [
+    {name = "Ben Bernal", email = "b.a.bernal@outlook.com"}
+]
+description = "Lovely Spam! Wonderful Spam! JK. It's actually homework."
