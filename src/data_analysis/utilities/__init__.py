@@ -1,4 +1,4 @@
 """
     Utilities init
 """
-from utilities import json
+from data_analysis.utilities import json

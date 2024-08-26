@@ -14,3 +14,4 @@ def to_dict(file_path:str) -> dict[str, hint.Any]:
 
     with open(file_path, "r", encoding="UTF-8") as file:
         return json.load(file)
+    
